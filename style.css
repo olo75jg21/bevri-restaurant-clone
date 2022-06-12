@@ -269,7 +269,7 @@ body {
   background-position: center;
   background-size: cover;
 
-  background-image: url("/backround1.png");
+  background-image: url("img/backround1.png");
   background-attachment: fixed;
 }
 
@@ -323,7 +323,7 @@ body {
   background-position: center;
   background-size: cover;
 
-  background-image: url("/backround2.png");
+  background-image: url("img/backround2.png");
   background-attachment: fixed;
   display: flex;
   text-align: center;
